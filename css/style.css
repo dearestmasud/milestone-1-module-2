@@ -1,0 +1,43 @@
+#first{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(137, 43, 226, 0.694);
+}
+
+.title{
+    background-color: blanchedalmond;
+    width: 7em;
+    padding-left: 1rem;
+    text-align: center;
+}
+
+.para{
+    background-color:azure;
+    width:70%;
+    text-align:justify;
+}
+
+.only-style{
+background-color: rgba(137, 43, 226, 0.386);
+}
+.only-style p{
+    font-family: fantasy;
+    text-align: justify;
+    font-weight: 700;
+}
+
+.place{
+    text-transform: uppercase;
+}
+
+.child-border{
+    background-color: aquamarine;
+    text-align: center;
+    border:0.2em solid greenyellow;
+    border-radius: 2em;
+    padding: 1rem 5em;
+    margin:4em 5em 1em;
+}
+
+.a{
+display: inline;
+}
